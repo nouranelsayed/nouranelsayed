@@ -25,7 +25,7 @@
 <p><br></p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width= 45px> </h2>
-<a href="https://api.whatsapp.com/send?phone=201110781518"><img align="center" src="whatsapp.svg" alt="+201110781518" width="32" /></a>
+<a href="https://api.whatsapp.com/send?phone=201110781518"><img align="center" src="https://github.com/omarrtarek29/omarrtarek29/blob/main/whatsapp.svg" alt="+201110781518" width="32" /></a>
 <a href="mailto:nouransabbah84@gmail.com"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="
 nouransabbah84@gmail.com" width="32" /></a>
 <a href = 'https://www.github.com/nouranelsayed'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
